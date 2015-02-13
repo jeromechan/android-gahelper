@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--命名规范：文件内所有名称均以"ga_"或"ga_do_"开头，前者表示AppView，后者表示Event-->
+
+    <string name="ga_demo_page_01">示例页面-PageView</string>
+    <string name="ga_do_demo_submit">示例页面-Event</string>
+
+</resources>
